@@ -1,8 +1,7 @@
 # quant-projects
 
-Projects that I've worked on in my own-free time.
-
-1.  TD Ameritrade API Project
+<b>TD Ameritrade API Project</b>
+  
 - In this project I have created a class wrapper to retrieve and clean live option chain data efficiently.  I have also decided to use authenticated requests when I obtain data from the TD-Ameritrade API.  Although authenticated requests aren't currently required for the data I'm obtaining, it could be required in the future per their website. 
 
 Class File:
