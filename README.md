@@ -23,5 +23,5 @@ Other Files:
   - localhost (str): callback url that you specified, I used: http://localhost/test
   - exec_path (raw str): absolute path of where you installed chromedriver
 
-- data_test.py - in this file I have shown a sample data retrieval, cleaning, and export to a dynamically named excel file.
+- data_test.py - in this file I have shown a sample case of the custom built tdapi class.  I have retrieved and cleaned specified option chain data and exported to an excel file.
 - DIS_CALL_2019-07-23_2019-10-21.xlsx - result of the sample data retrieval in data_test.py, this is information of Disney Calls from 7/23/2019 to 10/21/2019.
