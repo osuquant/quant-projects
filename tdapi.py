@@ -4,7 +4,6 @@ TD-Ameritrade API Connection
 Option Chains
 
 Josh Argraves
-6/26/2019
 
 
 """
